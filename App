@@ -1,1 +1,61 @@
-Did this save?
+"Alexa, tell me some animal trivia."
+Ok. Here are some animal trivia facts. 
+"What bird has eyes that are larger than it's brain?"
+  'An ostrich'  
+"What is the only mammal born with horns?"
+     'A giraffe.' 
+ "The aardvark is native to which continent?"
+     'Africa.'
+"What is the only mammal that can truly fly?"
+     'The bat.'
+"What is the largest rodent found in North America?"
+      'A beaver.'
+"What is the only bird known to fly backwards?"
+    'Hummingbird.'
+"What is the largest living bird by wingspan?"
+     'A wadering alatross.'
+"What is the world's fastest snake on land?"
+      'The black mamba.'
+"A panda's daily diet consists almost entirely of what plant?"
+       'Bamboo.'
+"Cynophobia is the fear of what kind of animal?"
+        'Dogs.'
+"What of the traditional five senses are dolphins believed not to possess?"
+        'Smell.'
+"What is a group of whales called?"
+         'A pod.'
+"What animal has the largest ears?"
+          'An elephant.'
+"What is the national animal of Scotland?"
+          'Unicorns.'
+ "What is the most popular breed of dogs in the United States?"
+          'Labrador Retriever.'
+ "What is a group of lions called?"
+          'A pride.'
+"How many hearts does a ovtopus have?"
+          'Three.'
+ "What is a group of rhinoceros called?"
+          'A crash.'
+ "What ware baby beavers called?"
+          'Kittens or kits.'
+  "What is the fastest fish in the Ocean?"
+           'A sailfish.'
+"An octopus can fit through any hole larger than its what?"
+           'Its beak.'
+"Which shark is the largest?"
+            'A whale shark.'
+"What is a baby swan called?"
+           "A cygnet.'
+"A koala's diet consists mostly of what?"
+          'Eucalyptus leaves.'
+"Which animal has the largest brain?"
+          'A whale sperm.'
+ "How large is the whale sperm's barin?"
+          'It weighs around 17 pounds.'
+ "On which continent would you not find bees?"
+            'Anartica.'
+ "What is a flock of crows called?"
+            'A murder.'
+  "What is the largest animal currently on Earth?"
+            'The blue whale.'
+   That is all the trivia for now. Come back later for more.
