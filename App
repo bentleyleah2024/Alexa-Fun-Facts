@@ -32,7 +32,7 @@ Ok. Here are some animal trivia facts.
           'Labrador Retriever.'
  "What is a group of lions called?"
           'A pride.'
-"How many hearts does a ovtopus have?"
+"How many hearts does a octopus have?"
           'Three.'
  "What is a group of rhinoceros called?"
           'A crash.'
