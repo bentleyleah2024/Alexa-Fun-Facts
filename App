@@ -59,3 +59,4 @@ Ok. Here are some animal trivia facts.
   "What is the largest animal currently on Earth?"
             'The blue whale.'
    That is all the trivia for now. Come back later for more.
+'Thanks Alexa.'
